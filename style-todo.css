@@ -8,7 +8,7 @@ body {
 .todo-grid,
 .todo-input-grid {
     display: grid;
-    grid-template-columns: 200px 150px 100px;
+    grid-template-columns: 250px 200px 150px;
     column-gap: 10px;
     row-gap: 10px;
     align-items: center;
@@ -21,7 +21,7 @@ body {
 
 .name-input,
 .due-date-input {
-    font-size: 15px;
+    font-size: 20px;
     padding: 6px;
 }
 
@@ -29,7 +29,7 @@ body {
     background-color: green;
     border: none;
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     cursor: pointer;
 }
 
@@ -37,7 +37,7 @@ body {
     background-color: darkred;
     color: white;
     border: none;
-    font-size: 15px;
+    font-size: 20px;
     cursor: pointer;
     padding: 10px;
 }

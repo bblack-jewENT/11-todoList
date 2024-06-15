@@ -8,7 +8,7 @@ body {
 .todo-grid,
 .todo-input-grid {
     display: grid;
-    grid-template-columns: 200px 150px 100px;
+    grid-template-columns: 250px 200px 150px;
     column-gap: 15px;
     row-gap: 15px;
     align-items: center;
